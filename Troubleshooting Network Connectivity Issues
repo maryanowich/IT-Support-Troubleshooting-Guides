@@ -1,0 +1,15 @@
+**Overview:**
+Users are experiencing intermittent network connectivity. This guide helps resolve common network issues.
+
+**Steps to Reproduce:**
+- Users report frequent disconnections.
+- Some devices can't connect to the network.
+
+**Troubleshooting Steps:**
+1. Check router status lights.
+2. Verify DHCP settings.
+3. Review firewall configurations.
+
+**Additional Tips:**
+- Restarting the router often resolves connectivity issues quickly.
+- Ensure that all cables are securely connected.
