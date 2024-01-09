@@ -1,0 +1,19 @@
+**Overview:**
+Group Policy settings are not applying as expected. This guide helps identify and resolve issues with Group Policy application.
+
+**Steps to Reproduce:**
+
+    - Users not receiving updated Group Policy settings.
+    - Policies are not being applied consistently across the network.
+
+**Troubleshooting Steps:**
+
+    1. Use the gpupdate /force command on client machines to force an immediate update.
+    2. Check the Event Viewer on client machines for Group Policy-related errors.
+    3. Ensure that the Group Policy objects (GPOs) are linked correctly in Active Directory.
+    4. Verify DNS resolution and network connectivity between clients and domain controllers.
+
+**Additional Tips:**
+
+    - Use the Group Policy Results Wizard to analyze Group Policy settings for a specific user or computer.
+    - Review the Resultant Set of Policy (RSoP) reports for detailed information on applied policies.
