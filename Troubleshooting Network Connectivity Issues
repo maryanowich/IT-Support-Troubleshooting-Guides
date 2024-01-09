@@ -8,6 +8,7 @@ Users are experiencing intermittent network connectivity. This guide helps resol
 **Troubleshooting Steps:**
 1. Check router status lights.
 2. Verify DHCP settings.
+  * Check DHCP scope/pool and also lease time
 3. Review firewall configurations.
 
 **Additional Tips:**
