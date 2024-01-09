@@ -1,0 +1,19 @@
+**Overview:**
+Users are experiencing issues with their Active Directory user accounts. This guide assists in troubleshooting common user account-related problems.
+
+**Steps to Reproduce:**
+
+    - Users unable to log in with their AD credentials.
+    - Account lockouts or password expiration issues.
+
+**Troubleshooting Steps:**
+
+    1. Check Active Directory Users and Computers for account status and lockout information.
+    2. Verify if the user's account is not disabled or expired.
+    3. Reset the user's password if needed.
+    4. Check for recent failed login attempts to identify potential security threats.
+
+**Additional Tips:**
+
+    - Enable auditing on Active Directory to track and analyze account-related events.
+    - Use tools like "Account Lockout and Management Tools" to identify the source of account lockouts.
