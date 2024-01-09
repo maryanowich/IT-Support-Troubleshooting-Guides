@@ -1,0 +1,23 @@
+**Overview:**
+Users are encountering errors during software installation. This guide helps resolve common issues related to software installation failures.
+
+**Steps to Reproduce:**
+
+    - Users receive error messages during installation.
+    - Some installations get stuck at specific points.
+
+**Troubleshooting Steps:**
+
+    - Check system requirements.
+ 
+    - Verify installer integrity.
+     * For Windows: certutil -hashfile [file location] SHA256. For example: certutil -hashfile C:\Users\user1\Downloads\software.zip SHA256
+     * For Linux: sha256sum [file location]. For example: sha256sum ~/Downloads/software.zip
+     * For Mac OS: shasum -a 256 [file location]. For example: shasum -a 256 ~/Downloads/software.zip
+
+      - Review antivirus or security software settings.
+
+**Additional Tips:**
+
+    - Running the installer with administrator privileges can resolve many installation problems.
+    - Temporarily disable antivirus software during the installation process.
