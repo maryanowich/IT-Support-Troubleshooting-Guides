@@ -1,0 +1,19 @@
+**Overview:**
+Replication between Active Directory domain controllers is not functioning properly. This guide assists in identifying and resolving replication problems.
+
+**Steps to Reproduce:**
+
+    - Event log entries indicating replication failures.
+    - Inconsistencies in Active Directory data between domain controllers.
+
+**Troubleshooting Steps:**
+
+    1. Use the repadmin /showrepl command to check replication status.
+    2. Verify DNS resolution and ensure that domain controllers can communicate.
+    3. Check the health of the domain controllers' Active Directory databases.
+    4. Review firewall settings to ensure they allow necessary replication traffic.
+
+**Additional Tips:**
+
+    - Monitor the Active Directory Replication Status tool for real-time replication information.
+    - Schedule regular health checks using tools like DCDiag and Repadmin.
