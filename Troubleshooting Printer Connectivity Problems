@@ -1,0 +1,18 @@
+**Overview:**
+Users are unable to print documents. This guide assists in troubleshooting common printer connectivity issues.
+
+**Steps to Reproduce:**
+
+    - Users submit print jobs, but nothing gets printed.
+    - Printers show as offline on user devices.
+
+**Troubleshooting Steps:**
+
+    1. Check printer power and connection to the network.
+    2. Verify printer queue status on the print server.
+    3. Restart the Print Spooler service.
+
+**Additional Tips:**
+
+    - Clearing print spooler cache can resolve issues where print jobs get stuck.
+    - Ensure the correct printer drivers are installed on user devices.
