@@ -1,0 +1,19 @@
+**Overview:**
+Users are encountering problems with DNS resolution. This guide helps identify and resolve DNS-related issues.
+
+**Steps to Reproduce:**
+
+    - Websites not resolving or loading properly.
+    - Domain names not resolving to the correct IP addresses.
+
+**Troubleshooting Steps:**
+
+    1. Verify DNS server availability and responsiveness.
+    2. Use the nslookup/dig command to troubleshoot DNS resolution.
+    3. Check DNS forwarders and root hints on DNS servers.
+    4. Clear DNS cache on both client devices and DNS servers.
+
+**Additional Tips:**
+
+    - Monitor DNS server logs for errors and warnings.
+    - Consider implementing DNS filtering for security and content control.
