@@ -3,7 +3,8 @@
 - This guide is compiled from standard IT Support procedures, troubleshooting steps and from known best practice scenarios and experience.
 - The point of this guide is to provide IT Support Desk, efficent and faster troubleshooting work.
 
-*It should be pointed out, that the you should always folow standard methods and troubleshooting steps when troubleshooting issues, and that this guide should be used as a refrence documentation. 
+*It should be pointed out, that the you should always folow industry standard methods and troubleshooting steps when troubleshooting issues, and that this guide should be used as a refrence documentation. 
+
 
 ##Troubleshooting Steps##
 1. Identify the Problem:
@@ -43,4 +44,5 @@
     - Document common problems and their solutions for future reference.
     - Encourage collaboration and knowledge-sharing among IT support staff.
 
-These steps are part of a structured approach to troubleshooting known as the "CompTIA Troubleshooting Theory." 
+These steps are part of a structured approach to troubleshooting based upon "CompTIA Troubleshooting Theory." 
+
