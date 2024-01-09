@@ -1,0 +1,20 @@
+**Overview:**
+Users encounter a Blue Screen of Death (BSOD) on their Windows computers. This guide helps identify and address common BSOD issues.
+
+**Steps to Reproduce:**
+
+    - Users experience spontaneous system crashes with a blue screen.
+    - Error messages on the blue screen indicate specific issues.
+
+**Troubleshooting Steps:**
+
+    1. Check for recent hardware or software changes.
+    2. Update device drivers, especially graphics, chipset drivers and firmware.
+    3. Run a memory and hard drive diagnostic tests.
+    4. Check system files integrity.
+      * Windows /with elevated privleges open Comamand Prompt: sfc /scannow
+
+**Additional Tips:**
+
+    - Check for overheating issues and clean the system from dust.
+    - Disable unnecessary startup programs using the System Configuration utility.
