@@ -1,0 +1,19 @@
+**Overview:**
+DNS-related issues are impacting Active Directory functionality. This guide helps identify and resolve DNS problems within an Active Directory environment.
+
+**Steps to Reproduce:**
+
+    - Users experiencing logon delays or failures.
+    - DNS lookup failures for Active Directory resources.
+
+**Troubleshooting Steps:**
+
+    1. Ensure that DNS settings on clients and servers point to the correct DNS servers.
+    2. Check DNS zone configurations and verify that all necessary records are present.
+    3. Use the nslookup command to troubleshoot DNS resolution issues.
+    4. Monitor the DNS event log for errors and warnings.
+
+**Additional Tips:**
+
+    - Consider implementing Active Directory-integrated DNS for seamless integration.
+    - Regularly check and maintain DNS records, especially service (SRV) records related to Active Directory.
