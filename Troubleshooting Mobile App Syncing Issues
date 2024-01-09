@@ -1,0 +1,18 @@
+**Overview:**
+Users report that mobile apps are not syncing properly. This guide addresses issues related to data synchronization.
+
+**Steps to Reproduce:**
+
+    - Changes made on one device are not reflected on other synced devices.
+    - Users experience delays in syncing data across devices.
+
+**Troubleshooting Steps:**
+
+    1. Verify internet connectivity on all devices.
+    2. Check the app's sync settings and force a manual sync.
+    3. Reinstall the app and check for improvements.
+
+**Additional Tips:**
+
+    - Ensure that the app is updated to the latest version.
+    - Clear app cache and data if applicable.
