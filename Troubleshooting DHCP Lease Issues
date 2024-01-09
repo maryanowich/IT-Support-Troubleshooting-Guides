@@ -1,0 +1,19 @@
+**Overview:**
+Users are not obtaining valid IP addresses from the DHCP server. This guide helps troubleshoot DHCP lease-related problems.
+
+**Steps to Reproduce:**
+
+    - Devices unable to obtain IP addresses automatically.
+    - Duplicate IP address conflicts on the network.
+
+**Troubleshooting Steps:**
+
+    1. Verify DHCP server availability and responsiveness.
+    2. Check DHCP scope settings, including address range and lease duration.
+    3. Review DHCP server logs for errors or warnings.
+    4. Use the ipconfig /renew command on client devices to force a lease renewal.
+
+**Additional Tips:**
+
+    - Monitor the DHCP server for available IP addresses in the pool.
+    - Investigate any unauthorized DHCP servers on the network.
