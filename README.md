@@ -3,7 +3,7 @@
 - This guide is compiled from standard IT Support procedures, troubleshooting steps and from known best practice scenarios and experience.
 - The point of this guide is to provide IT Support Desk, efficent and faster troubleshooting work.
 
-*It should be pointed out, that the you should always folow industry standard methods and troubleshooting steps when troubleshooting issues, and that this guide should be used as a refrence documentation. 
+*It should be pointed out, that the you should always folow industry standard methods and troubleshooting steps when troubleshooting issues, and that this guide should be used as a reference documentation. 
 
 
 ##Troubleshooting Steps##
